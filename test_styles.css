@@ -1,0 +1,27 @@
+*	{
+		box-sizing: border-box;
+}
+
+.header{
+	text-align: center;
+	font-family: Copperplate;
+  font-size: 30px;
+	color: white;
+	background-color: blue;
+}
+
+.header2{
+	text-align: center;
+	font-family: Copperplate;
+  font-size: 10px;
+	color: white;
+	background-color: blue;
+}
+
+.main{
+	text-align: left;
+	font-family: Helvetica;
+  	font-size: 10px;
+	color: blue;
+	background-color: white;
+}
